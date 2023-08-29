@@ -9,6 +9,9 @@ Tentez de devenir la légende du clic.
 
 Comparez-vous à vos amis en rigolant avec ClickSpeed !
 
+<img width="225" alt="IMG" src="https://github.com/istucesyt/ClickSpeed/assets/108399865/42378fda-713b-449f-a90b-32fcf578ca53">
+<img width="225" alt="IMG" src="https://github.com/istucesyt/ClickSpeed/assets/108399865/28c5ab53-0a80-47cc-8efc-cc5e6b101c2e">
+
 Grades :
 * 🐛 Chenille - 0 à 100 clics par minute
 * 🐈 Chaton endormi - 100 à 150 clics par minute
