@@ -7,20 +7,24 @@ Tentez de devenir la légende du clic.
 
 ## ☕️ À propos
 
+Comparez-vous à vos amis en rigolant avec ClickSpeed !
+
+Grades :
+* 🐛 Chenille - 0 à 100 clics par minute
+* 🐈 Chaton endormi - 100 à 150 clics par minute
+* 🦋 Papillon - 150 à 200 clics par minute
+* 🐇 Lapin - 200 à 250 clics par minute
+* 🦊 Renard -  250 à 350 clics par minute
+* 🐎 Cheval au galop - 350 à 450 clics par minute
+* 🦁 Lion - 450 à 500 clics par minute
+* 🐆 Guépard - 500 à 575 clics par minute
+* 🚄 TGV - supérieur à 575 clics par minute
+
+
 ## 🚀 Prérequis
 
 L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
 Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
-
-## 🐞 Fuseaux beta
-
-<img width="128" alt="mac256" src="https://github.com/istucesyt/Fuseaux/assets/108399865/ad5240b8-fa8d-420f-b896-88c2c85a1472">
-
-Testez en avant-première les futures versions de Fuseaux, et rapportez les erreurs / bogues à *istucesyt@gmail.com*
-* ~~Fuseaux beta 1.0 build 1~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v1.0-build1-beta
-* ~~Fuseaux beta 2.0~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v2.0-beta
-* ~~Fuseaux beta 3.0 (1)~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v3.0-beta
-* ~~Fuseaux beta 3.0 (2)~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v3.0-beta2
 
 ## ✉️ Restez informé...
 
