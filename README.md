@@ -9,8 +9,9 @@ Tentez de devenir la légende du clic.
 
 Comparez-vous à vos amis en rigolant avec ClickSpeed !
 
-<img width="225" alt="IMG" src="https://github.com/istucesyt/ClickSpeed/assets/108399865/42378fda-713b-449f-a90b-32fcf578ca53">
-<img width="225" alt="IMG" src="https://github.com/istucesyt/ClickSpeed/assets/108399865/28c5ab53-0a80-47cc-8efc-cc5e6b101c2e">
+<img width="250" alt="IMG" src="https://github.com/istucesyt/ClickSpeed/assets/108399865/a55d2ba2-4374-4e38-abdf-41b7f9ccc231">
+<img width="250" alt="IMG" src="https://github.com/istucesyt/ClickSpeed/assets/108399865/eaec42c2-4529-4621-a5bc-21d559f3e5bf">
+
 
 Grades :
 * 🐛 Chenille - 0 à 100 clics par minute
@@ -27,7 +28,7 @@ Grades :
 ## 🚀 Prérequis
 
 L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
-Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
+Vous aurez besoin de 5 Mo d'espace disque libre sur votre Mac.
 
 ## ✉️ Restez informé...
 
