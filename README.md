@@ -32,6 +32,6 @@ Vous aurez besoin de 5 Mo d'espace disque libre sur votre Mac.
 
 ## ✉️ Restez informé...
 
-...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord et en vous abonnant à la chaine YouTube *@istuces23* : https://youtube.com/@istuces23
+...en rejoignant mon serveur Discord : https://tinyurl.com/iStuces-Discord et en vous abonnant à ma chaine YouTube *@istuces23* : https://youtube.com/@istuces23
 
-Contactez iStuces : *istucesyt@gmail.com*
+Contactez-moi : *istucesyt@gmail.com*
